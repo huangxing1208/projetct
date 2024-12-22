@@ -1,0 +1,3 @@
+<!--pages/waterform/waterform.wxml-->
+<text>pages/waterform/waterform.wxml</text>
+ <l-button type="default">默认按钮</l-button>
